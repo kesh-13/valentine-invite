@@ -33,8 +33,8 @@ no.onclick = () => {
 yes.onclick = () => {
 	navigator.vibrate?.([30, 40, 30]);
 	document.querySelector(".container").innerHTML =
-		`<h1>WOOHOOOO ${to.toUpperCase()}!</h1>
-	<img src="https://media.giphy.com/media/tBg7ZLKO56E4reaSX4/giphy.gif" width="260">`;
+		`<h1>WOOHOOOO!</h1>
+		<img src="https://media.giphy.com/media/tBg7ZLKO56E4reaSX4/giphy.gif" width="260">`;
 };
 
 const bg = document.querySelector(".bg-hearts");
