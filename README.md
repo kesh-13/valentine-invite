@@ -8,7 +8,7 @@ Designed to feel smooth, cute, and a little mischievous.
 
 ## 🌸 Live Website
 
-[![Open Valentine Invite](https://img.shields.io/badge/💖%20Open%20Valentine%20Invite-ff69b4?style=for-the-badge)](https://grvsnh.github.io/valentine-invite/)
+[![Open Valentine Invite](https://img.shields.io/badge/💖%20Open%20Valentine%20Invite-ff69b4?style=for-the-badge)](https://kesh-13.github.io/valentine-invite/)
 
 ---
 

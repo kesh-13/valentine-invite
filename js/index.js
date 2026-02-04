@@ -1,4 +1,4 @@
-const base = "https://grvsnh.github.io/valentine-invite/";
+const base = "https://kesh-13.github.io/valentine-invite/";
 
 const yourName = document.getElementById("yourName");
 const baeName = document.getElementById("baeName");
