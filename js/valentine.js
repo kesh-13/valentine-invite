@@ -34,8 +34,7 @@ yes.onclick = () => {
 	navigator.vibrate?.([30, 40, 30]);
 	document.querySelector(".container").innerHTML =
 		`<h1>WOOHOOOO ${to.toUpperCase()}!</h1>
-	<img src="media/IMG_5855" width="260">`;
-	// <img src="https://media2.giphy.com/media/h20IwOYYJgCMbj4uaD/giphy.gif" width="260">`;
+	<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5sNmg5YTNtdnl6MTUzc2wxZmJreHAyNTl4bnJ3c2k5eTlyMmFsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBg7ZLKO56E4reaSX4/giphy.gif" width="260">`;
 };
 
 const bg = document.querySelector(".bg-hearts");
